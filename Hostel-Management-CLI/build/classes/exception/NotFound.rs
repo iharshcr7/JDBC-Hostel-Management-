@@ -1,0 +1,3 @@
+exception.CapacityExceeded
+exception.NotFound
+exception.InvalidInput
